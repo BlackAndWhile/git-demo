@@ -10,4 +10,5 @@ hello atguigu! hello git!
 666666666666666666666666
 12311111111111111 by SSH
 66很厉害
-测试SSH拉取
+测试SSH拉取pull
+测试SSH推送push
